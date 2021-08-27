@@ -5,6 +5,7 @@
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
+  "repository": "https://github.com/Necan03/YoutubeDownloader",
   "support": "https://t.me/NecanChannel",
   "success_url": "https://t.me/youtubdlbot",
   "owner": "https://t.me/Necan03",
